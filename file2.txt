@@ -1,1 +1,2 @@
  Hi from team mate 
+This the new commit from team devoloper
